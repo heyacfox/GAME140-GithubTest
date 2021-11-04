@@ -1,14 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="Hahn.cpp" />
-    <ClCompile Include="HahnTeamCode.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="TCAA Team Code.cpp" />
-    <ClCompile Include="RequiredNameTeam.cpp" />
-    <ClCompile Include="Team DOB.cpp" />
-    <ClCompile Include="yes.cpp" />
-    <ClCompile Include="wyvern.cpp" />
-    <ClCompile Include="JVTeam.cpp" />
+    <ClCompile Include="yes.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Hahn.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="HahnTeamCode.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="JVTeam.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="RequiredNameTeam.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="wyvern.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{20979ffc-41ca-4cf9-8658-0d5914178a51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HeaderFiles">
+      <UniqueIdentifier>{8be4f108-65eb-4f6b-b0ee-7065d41a62ca}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HahnTeamCode.h">
+      <Filter>HeaderFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="JVTeam.h">
+      <Filter>HeaderFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="RequiredTeamName.h">
+      <Filter>HeaderFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="wyvern.h">
+      <Filter>HeaderFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="yes.h">
+      <Filter>HeaderFiles</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
