@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="Hahn.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="TCAA Team Code.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
