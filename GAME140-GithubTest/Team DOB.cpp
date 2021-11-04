@@ -1,5 +1,5 @@
 #include <stdio.h>
 
-void HahnCustomFunction() {
+void DOBCustomFunction() {
 	printf("Team Doing Our Best is trying.");
 }
