@@ -22,6 +22,8 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="HahnTeamCode.cpp">
+    <ClCompile Include="yes.cpp">
+    <ClCompile Include="wyvern.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
