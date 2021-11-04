@@ -142,6 +142,7 @@
     <ClCompile Include="Hahn.cpp" />
     <ClCompile Include="HahnTeamCode.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="RequiredNameTeam.cpp" />
     <ClCompile Include="Team DOB.cpp" />
     <ClCompile Include="yes.cpp" />
     <ClCompile Include="wyvern.cpp" />
