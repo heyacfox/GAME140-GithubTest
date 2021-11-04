@@ -140,8 +140,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Hahn.cpp" />
+    <ClCompile Include="HahnTeamCode.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="TCAA Team Code.cpp" />
+    <ClCompile Include="RequiredNameTeam.cpp" />
+    <ClCompile Include="Team DOB.cpp" />
+    <ClCompile Include="yes.cpp" />
+    <ClCompile Include="wyvern.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
