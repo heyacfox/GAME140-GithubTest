@@ -24,5 +24,8 @@
     <ClCompile Include="wyvern.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TeeeamJV.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
