@@ -1,5 +1,5 @@
 #include <stdio.h>
 
-void HahnCustomFunction() {
+void aFunction() {
 	printf("We're Team Indifferent");
 }
