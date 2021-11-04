@@ -9,5 +9,6 @@
     <ClCompile Include="Team DOB.cpp" />
     <ClCompile Include="yes.cpp" />
     <ClCompile Include="wyvern.cpp" />
+    <ClCompile Include="JVTeam.cpp" />
   </ItemGroup>
 </Project>
