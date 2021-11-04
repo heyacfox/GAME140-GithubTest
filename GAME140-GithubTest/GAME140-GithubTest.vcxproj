@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="Hahn.cpp" />
     <ClCompile Include="HahnTeamCode.cpp" />
+    <ClCompile Include="JVTeam.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="TCAA Team Code.cpp" />
     <ClCompile Include="RequiredNameTeam.cpp" />
