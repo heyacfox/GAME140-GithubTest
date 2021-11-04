@@ -21,6 +21,11 @@
     <ClCompile Include="Hahn.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TCAA Team Code.cpp">
+    <ClCompile Include="RequiredNameTeam.cpp">
+    <ClCompile Include="Team DOB.cpp">
+    <ClCompile Include="HahnTeamCode.cpp">
+    <ClCompile Include="yes.cpp">
     <ClCompile Include="wyvern.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
