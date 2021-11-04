@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Hahn.cpp" />
+    <ClCompile Include="HahnTeamCode.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="yes.cpp" />
     <ClCompile Include="wyvern.cpp" />
